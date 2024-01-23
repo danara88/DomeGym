@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/GymManagement.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/GymManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/GymManagement.Application.csproj",
+        "projectName": "GymManagement.Application",
+        "projectPath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/GymManagement.Application.csproj",
+        "packagesPath": "/Users/daniel.aranda/.nuget/packages/",
+        "outputPath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/daniel.aranda/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/GymManagement.Domain.csproj": {
+                "projectPath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/GymManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/GymManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/GymManagement.Domain.csproj",
+        "projectName": "GymManagement.Domain",
+        "projectPath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/GymManagement.Domain.csproj",
+        "packagesPath": "/Users/daniel.aranda/.nuget/packages/",
+        "outputPath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/daniel.aranda/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Throw": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

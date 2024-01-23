@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhepTbJp+fx4T2e9HU3SSpJxuwHehgUGnO55t4kh74UNGTsuA4m2DEwQ7xDH54SQeCcriPM/X9d412dBLwSgNg==",
+  "success": true,
+  "projectFilePath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/GymManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniel.aranda/.nuget/packages/ardalis.smartenum/7.0.0/ardalis.smartenum.7.0.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/oneof/3.0.216/oneof.3.0.216.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/throw/1.4.0/throw.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

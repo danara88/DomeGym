@@ -1,0 +1,15 @@
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/bin/Debug/net7.0/GymManagement.Application.deps.json
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/bin/Debug/net7.0/GymManagement.Application.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/bin/Debug/net7.0/GymManagement.Application.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/bin/Debug/net7.0/GymManagement.Domain.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/bin/Debug/net7.0/GymManagement.Domain.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/GymManagement.Application.csproj.AssemblyReference.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/GymManagement.Application.AssemblyInfoInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/GymManagement.Application.AssemblyInfo.cs
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/GymManagement.Application.csproj.CoreCompileInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/GymManagement.Application.csproj.CopyComplete
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/GymManagement.Application.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/refint/GymManagement.Application.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/GymManagement.Application.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Application/obj/Debug/net7.0/ref/GymManagement.Application.dll

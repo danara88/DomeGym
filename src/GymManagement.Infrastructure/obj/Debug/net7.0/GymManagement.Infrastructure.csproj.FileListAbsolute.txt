@@ -1,0 +1,17 @@
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/bin/Debug/net7.0/GymManagement.Infrastructure.deps.json
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/bin/Debug/net7.0/GymManagement.Infrastructure.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/bin/Debug/net7.0/GymManagement.Infrastructure.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/bin/Debug/net7.0/GymManagement.Application.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/bin/Debug/net7.0/GymManagement.Domain.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/bin/Debug/net7.0/GymManagement.Application.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/bin/Debug/net7.0/GymManagement.Domain.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/GymManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/GymManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/GymManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/GymManagement.Infrastructure.AssemblyInfo.cs
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/GymManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/GymManagement.Infrastructure.csproj.CopyComplete
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/GymManagement.Infrastructure.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/refint/GymManagement.Infrastructure.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/GymManagement.Infrastructure.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Infrastructure/obj/Debug/net7.0/ref/GymManagement.Infrastructure.dll

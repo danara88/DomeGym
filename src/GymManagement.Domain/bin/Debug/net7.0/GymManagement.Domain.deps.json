@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GymManagement.Domain/1.0.0": {
+        "dependencies": {
+          "Ardalis.SmartEnum": "7.0.0",
+          "ErrorOr": "1.2.1",
+          "Throw": "1.4.0"
+        },
+        "runtime": {
+          "GymManagement.Domain.dll": {}
+        }
+      },
+      "Ardalis.SmartEnum/7.0.0": {
+        "runtime": {
+          "lib/net7.0/Ardalis.SmartEnum.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "ErrorOr/1.2.1": {
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      },
+      "OneOf/3.0.216": {
+        "runtime": {
+          "lib/netstandard2.0/OneOf.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Throw/1.4.0": {
+        "dependencies": {
+          "OneOf": "3.0.216"
+        },
+        "runtime": {
+          "lib/net6.0/Throw.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ardalis.SmartEnum/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kimfs7iIHTctxUwMyuJH+dXwFVDzYKtRzuxiAFk7Cb8sjhP1QutEYenz+i/UG92nu4AkoZhfqNpmBOn5/RGDMw==",
+      "path": "ardalis.smartenum/7.0.0",
+      "hashPath": "ardalis.smartenum.7.0.0.nupkg.sha512"
+    },
+    "ErrorOr/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5xcbQErEPQKq2z/sLwSaFPX3T2G7x4ISX0us0X7jSxXSQT/wlfOOhw4knPUN/GWOf2strhuzdvRA36JViwvu+A==",
+      "path": "erroror/1.2.1",
+      "hashPath": "erroror.1.2.1.nupkg.sha512"
+    },
+    "OneOf/3.0.216": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hvSxx7O9Z50ZK/HZaqxcEiO1skihnHcsziy0cVRqSq7LrETM9swcRcMZuG+0irai7jq8FYYCHTrB/pSHSah6ug==",
+      "path": "oneof/3.0.216",
+      "hashPath": "oneof.3.0.216.nupkg.sha512"
+    },
+    "Throw/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fz2Y+LXepl0obzvZs5PAs2ZnnOF0fIpaErUQMEynMXIxQwnxaKcRgiBiKhCp4Jp2OrSlcKMwgqzAqceWOyl/hg==",
+      "path": "throw/1.4.0",
+      "hashPath": "throw.1.4.0.nupkg.sha512"
+    }
+  }
+}

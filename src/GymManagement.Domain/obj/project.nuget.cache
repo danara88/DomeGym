@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xoLxrI/hJIkE2qyBVcJpIxgBnhOXzlKsxND1OLHiGiS+TrH49pzBVHIM2agNiHp1OEQ7kiOAaktpYyv/t/FQ6A==",
+  "success": true,
+  "projectFilePath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/GymManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniel.aranda/.nuget/packages/ardalis.smartenum/7.0.0/ardalis.smartenum.7.0.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/oneof/3.0.216/oneof.3.0.216.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/throw/1.4.0/throw.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

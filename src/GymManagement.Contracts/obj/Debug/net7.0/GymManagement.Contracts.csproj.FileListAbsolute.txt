@@ -1,0 +1,11 @@
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/bin/Debug/net7.0/GymManagement.Contracts.deps.json
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/bin/Debug/net7.0/GymManagement.Contracts.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/bin/Debug/net7.0/GymManagement.Contracts.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/obj/Debug/net7.0/GymManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/obj/Debug/net7.0/GymManagement.Contracts.AssemblyInfoInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/obj/Debug/net7.0/GymManagement.Contracts.AssemblyInfo.cs
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/obj/Debug/net7.0/GymManagement.Contracts.csproj.CoreCompileInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/obj/Debug/net7.0/GymManagement.Contracts.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/obj/Debug/net7.0/refint/GymManagement.Contracts.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/obj/Debug/net7.0/GymManagement.Contracts.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Contracts/obj/Debug/net7.0/ref/GymManagement.Contracts.dll

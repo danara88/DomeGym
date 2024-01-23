@@ -1,0 +1,12 @@
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/bin/Debug/net7.0/GymManagement.Domain.deps.json
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/bin/Debug/net7.0/GymManagement.Domain.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/bin/Debug/net7.0/GymManagement.Domain.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/GymManagement.Domain.csproj.AssemblyReference.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/GymManagement.Domain.AssemblyInfoInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/GymManagement.Domain.AssemblyInfo.cs
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/GymManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/GymManagement.Domain.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/refint/GymManagement.Domain.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/GymManagement.Domain.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Domain/obj/Debug/net7.0/ref/GymManagement.Domain.dll

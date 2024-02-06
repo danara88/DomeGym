@@ -125,6 +125,10 @@
               "target": "Package",
               "version": "[1.2.1, )"
             },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
             "Throw": {
               "target": "Package",
               "version": "[1.4.0, )"

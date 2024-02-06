@@ -823,6 +823,7 @@
         "dependencies": {
           "Ardalis.SmartEnum": "7.0.0",
           "ErrorOr": "1.2.1",
+          "MediatR": "12.2.0",
           "Throw": "1.4.0"
         },
         "compile": {
@@ -2167,5 +2168,16 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: MediatR from 12.2.0 to 12.1.1. Reference the package directly from the project to select a different version. \n GymManagement.Api -> GymManagement.Application -> GymManagement.Domain -> MediatR (>= 12.2.0) \n GymManagement.Api -> GymManagement.Application -> MediatR (>= 12.1.1)",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

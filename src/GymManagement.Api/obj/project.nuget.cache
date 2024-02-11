@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "APgM4Dz/L7C1K9Zc8Gc3Mx0AUKjqWQApTO3Eu62233Djamr1foGTCcmHag2wf+zRhi4wMj8lZMagu0rcFDPIJQ==",
-  "success": false,
+  "dgSpecHash": "rjIybl2boebVUYGxvEVqLDsD5/E13LjlpTNzS1YCHJVFF+Bp68WKuza3H6O//oztsD5lo2Xeil3i40jrTo6tIw==",
+  "success": true,
   "projectFilePath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/GymManagement.Api.csproj",
   "expectedPackageFiles": [
     "/Users/daniel.aranda/.nuget/packages/ardalis.smartenum/7.0.0/ardalis.smartenum.7.0.0.nupkg.sha512",
@@ -10,7 +10,7 @@
     "/Users/daniel.aranda/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
-    "/Users/daniel.aranda/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.data.sqlite.core/7.0.11/microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
@@ -26,7 +26,7 @@
     "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
@@ -49,15 +49,5 @@
     "/Users/daniel.aranda/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/throw/1.4.0/throw.1.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Detected package downgrade: MediatR from 12.2.0 to 12.1.1. Reference the package directly from the project to select a different version. \n GymManagement.Api -> GymManagement.Application -> GymManagement.Domain -> MediatR (>= 12.2.0) \n GymManagement.Api -> GymManagement.Application -> MediatR (>= 12.1.1)",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

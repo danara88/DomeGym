@@ -1,4 +1,3 @@
-using ErrorOr;
 using FluentValidation;
 using GymManagement.Application.Common.Behaviors;
 using Microsoft.Extensions.DependencyInjection;

@@ -11,6 +11,9 @@ var builder = WebApplication.CreateBuilder(args);
     // returning deatails about HTTP errors.
     builder.Services.AddProblemDetails();
 
+    // HttpContextAccessor is a singleton
+    builder.Services.AddHttpContextAccessor();
+
     // Add dependency injection modules
     builder.Services
         .AddApplication()
@@ -21,6 +24,9 @@ var app = builder.Build();
 {
     // Wraps everything in a try catch if something goes worng
     app.UseExceptionHandler();
+
+    // Execute infrastructure pipeline here
+    app.AddInfrastructureMiddleware();
 
     if (app.Environment.IsDevelopment())
     {

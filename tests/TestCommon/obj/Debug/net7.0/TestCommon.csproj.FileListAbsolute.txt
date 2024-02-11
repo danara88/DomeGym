@@ -1,0 +1,15 @@
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/bin/Debug/net7.0/TestCommon.deps.json
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/bin/Debug/net7.0/TestCommon.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/bin/Debug/net7.0/TestCommon.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/bin/Debug/net7.0/GymManagement.Domain.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/bin/Debug/net7.0/GymManagement.Domain.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.csproj.AssemblyReference.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.AssemblyInfoInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.AssemblyInfo.cs
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.csproj.CoreCompileInputs.cache
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.csproj.CopyComplete
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/refint/TestCommon.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.pdb
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/ref/TestCommon.dll

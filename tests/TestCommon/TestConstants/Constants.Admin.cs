@@ -7,6 +7,6 @@ public static partial class Constants
 {
     public static class Admin
     {
-        public static Guid Id = new("789b898f-b2ef-43ed-8c16-c1be5f23cba3");
+        public static Guid Id = new("2150E333-8FDC-42A3-9474-1A3956D46DE8");
     }
 }

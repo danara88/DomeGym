@@ -13,3 +13,5 @@
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/refint/TestCommon.dll
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/TestCommon.pdb
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/obj/Debug/net7.0/ref/TestCommon.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/bin/Debug/net7.0/GymManagement.Application.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/bin/Debug/net7.0/GymManagement.Application.pdb

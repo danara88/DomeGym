@@ -112,3 +112,8 @@
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/obj/Debug/net7.0/GymManagement.Domain.UnitTests.pdb
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/obj/Debug/net7.0/GymManagement.Domain.UnitTests.genruntimeconfig.cache
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/obj/Debug/net7.0/ref/GymManagement.Domain.UnitTests.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/bin/Debug/net7.0/FluentValidation.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/bin/Debug/net7.0/GymManagement.Application.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/bin/Debug/net7.0/GymManagement.Application.pdb

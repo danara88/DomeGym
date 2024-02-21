@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tW1Mh7jTPAGf3mXVYilg1cmyjViPtaNhkIx6tuQGCOWlsNla8Mo/QDpLz7v95vzV4bZDilCKh5SR+DpF/sy2AQ==",
+  "dgSpecHash": "Q8iN6Te17L6iIzA05l6tssMQQqJb4iEa3OxdkXato5RCOM/P3uBmbpPQW4zMFjCFIAh4xsidB2ztx9+RzAOsUA==",
   "success": true,
   "projectFilePath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Domain.UnitTests/GymManagement.Domain.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "/Users/daniel.aranda/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/fluentassertions/6.12.0/fluentassertions.6.12.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.codecoverage/17.7.1/microsoft.codecoverage.17.7.1.nupkg.sha512",

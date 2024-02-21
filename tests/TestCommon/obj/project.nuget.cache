@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "bR9b9rGL0ThNyVnRi24UP4FMAWSd20U7Sdp9deeOWo4FMRPrchBcxrbl33uEAUo6VbBDr2oNjk5YZu9LFCGs6A==",
+  "dgSpecHash": "cvk9lsYBQcA6elr5AErF0BOXn3L7NSXBSwi/cWLHlV894pGp07y6mfKl3AEQf3RDDnKZ1habdoGRf3fBHCKr3Q==",
   "success": true,
   "projectFilePath": "/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/TestCommon/TestCommon.csproj",
   "expectedPackageFiles": [
     "/Users/daniel.aranda/.nuget/packages/ardalis.smartenum/7.0.0/ardalis.smartenum.7.0.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/daniel.aranda/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/daniel.aranda/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagement.Domain.UnitTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCommon", "tests\TestCommon\TestCommon.csproj", "{98F5A728-E68D-4095-9870-D5C0A0A739C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagement.Application.UnitTests", "tests\GymManagement.Application.UnitTests\GymManagement.Application.UnitTests.csproj", "{DF9433D0-82C1-426B-BEB8-2E812F75A7D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagement.Application.SubcutaneousTests", "tests\GymManagement.Application.SubcutaneousTests\GymManagement.Application.SubcutaneousTests.csproj", "{7B4AD578-4923-413B-A31A-866FD45DC299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +62,14 @@ Global
 		{98F5A728-E68D-4095-9870-D5C0A0A739C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98F5A728-E68D-4095-9870-D5C0A0A739C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98F5A728-E68D-4095-9870-D5C0A0A739C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9433D0-82C1-426B-BEB8-2E812F75A7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9433D0-82C1-426B-BEB8-2E812F75A7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9433D0-82C1-426B-BEB8-2E812F75A7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9433D0-82C1-426B-BEB8-2E812F75A7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4AD578-4923-413B-A31A-866FD45DC299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4AD578-4923-413B-A31A-866FD45DC299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4AD578-4923-413B-A31A-866FD45DC299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4AD578-4923-413B-A31A-866FD45DC299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FC71E45C-44E8-46B1-AE81-C56A87D78B75} = {E536BDBE-4DC2-4650-92D2-46982DB31A12}
@@ -67,5 +79,7 @@ Global
 		{7BB71DB0-E5B2-4EAC-BC06-EBFB623C73AD} = {E536BDBE-4DC2-4650-92D2-46982DB31A12}
 		{A0DCE5F7-A0A5-42F3-B094-DC819A371E16} = {3C0C6D1F-D5ED-4ABE-80A2-99371143BAA7}
 		{98F5A728-E68D-4095-9870-D5C0A0A739C2} = {3C0C6D1F-D5ED-4ABE-80A2-99371143BAA7}
+		{DF9433D0-82C1-426B-BEB8-2E812F75A7D1} = {3C0C6D1F-D5ED-4ABE-80A2-99371143BAA7}
+		{7B4AD578-4923-413B-A31A-866FD45DC299} = {3C0C6D1F-D5ED-4ABE-80A2-99371143BAA7}
 	EndGlobalSection
 EndGlobal

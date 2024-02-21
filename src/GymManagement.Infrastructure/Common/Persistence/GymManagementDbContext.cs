@@ -4,6 +4,7 @@ using GymManagement.Domain.Admins;
 using GymManagement.Domain.Common;
 using GymManagement.Domain.Gyms;
 using GymManagement.Domain.Subscriptions;
+using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,15 +15,17 @@ public class GymManagementDbContext : DbContext, IUnitOfWork
     public DbSet<Admin> Admins { get; set; } = null!;
     public DbSet<Subscription> Subscriptions { get; set; } = null!;
     public DbSet<Gym> Gyms { get; set; } = null!;
-
     private readonly IHttpContextAccessor _httpContextAccesor;
+    private readonly IPublisher _publisher;
 
     public GymManagementDbContext(
         DbContextOptions options,
-        IHttpContextAccessor httpContextAccesor
+        IHttpContextAccessor httpContextAccesor,
+        IPublisher publisher
     ) : base(options)
     {
         _httpContextAccesor = httpContextAccesor;
+        _publisher = publisher;
     }
 
     public async Task CommitChangesAsync()
@@ -33,11 +36,29 @@ public class GymManagementDbContext : DbContext, IUnitOfWork
             .SelectMany(x => x)
             .ToList();
 
-        // Store domain events in the http context for later
-        AddDomainEventsToOfflineProcessingQueue(domainEvents);
+        // Store domain events in the http context for later if user is waiting online
+        if(IsUserWaitingOnline())
+        {
+            AddDomainEventsToOfflineProcessingQueue(domainEvents);
+        }
+        else
+        {
+            await PublishDomainEvents(domainEvents);
+        }
 
         await SaveChangesAsync();
     }
+
+    private async Task PublishDomainEvents(List<IDomainEvent> domainEvents)
+    {
+        foreach (var domainEvent in domainEvents)
+        {
+            // Publish each domain event right now
+            await _publisher.Publish(domainEvent);
+        }
+    }
+
+    private bool IsUserWaitingOnline() => _httpContextAccesor.HttpContext is not null;
 
     /// <summary>
     /// This methos will store domain events into http context to use later

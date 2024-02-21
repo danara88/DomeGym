@@ -14,6 +14,7 @@ public class SubscriptionsTests
     /// WhenMoreThanSubscriptionAllows: Scenario that we are testing
     /// ShouldFail: Expected result
     /// </summary>
+    [Fact]
     public void AddGym_WhenMoreThanSubscriptionAllows_ShouldFail()
     {
         // Arrange

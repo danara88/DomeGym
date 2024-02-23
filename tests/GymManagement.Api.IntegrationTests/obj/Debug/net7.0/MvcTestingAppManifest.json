@@ -1,0 +1,8 @@
+{
+  "GymManagement.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/daniel.aranda\/Documents\/Personal\/Repositories\/DomeGym\/src\/GymManagement.Api",
+  "GymManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/daniel.aranda\/Documents\/Personal\/Repositories\/DomeGym\/src\/GymManagement.Application",
+  "GymManagement.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/daniel.aranda\/Documents\/Personal\/Repositories\/DomeGym\/src\/GymManagement.Contracts",
+  "GymManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/daniel.aranda\/Documents\/Personal\/Repositories\/DomeGym\/src\/GymManagement.Domain",
+  "GymManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/daniel.aranda\/Documents\/Personal\/Repositories\/DomeGym\/src\/GymManagement.Infrastructure",
+  "TestCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/daniel.aranda\/Documents\/Personal\/Repositories\/DomeGym\/tests\/TestCommon"
+}

@@ -1,23 +1,14 @@
+using GymManagement.Api;
 using GymManagement.Application;
 using GymManagement.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
-    builder.Services.AddControllers();
-    builder.Services.AddEndpointsApiExplorer();
-    builder.Services.AddSwaggerGen();
-
-    // Configure ProblemDetails middleware. Establish standard format for
-    // returning deatails about HTTP errors.
-    builder.Services.AddProblemDetails();
-
-    // HttpContextAccessor is a singleton
-    builder.Services.AddHttpContextAccessor();
-
     // Add dependency injection modules
     builder.Services
+        .AddPresentation()
         .AddApplication()
-        .AddInfrastructure();
+        .AddInfrastructure(builder.Configuration);
 }
 
 var app = builder.Build();

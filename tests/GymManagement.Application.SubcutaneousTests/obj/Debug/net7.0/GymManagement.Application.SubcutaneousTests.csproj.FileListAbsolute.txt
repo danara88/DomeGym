@@ -464,3 +464,13 @@
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/obj/Debug/net7.0/GymManagement.Application.SubcutaneousTests.pdb
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/obj/Debug/net7.0/GymManagement.Application.SubcutaneousTests.genruntimeconfig.cache
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/obj/Debug/net7.0/ref/GymManagement.Application.SubcutaneousTests.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Application.SubcutaneousTests/bin/Debug/net7.0/System.Security.Permissions.dll

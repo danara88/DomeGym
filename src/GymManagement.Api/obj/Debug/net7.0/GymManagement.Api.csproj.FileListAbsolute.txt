@@ -85,3 +85,13 @@
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/src/GymManagement.Api/bin/Debug/net7.0/System.Security.Permissions.dll

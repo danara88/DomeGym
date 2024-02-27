@@ -464,3 +464,13 @@
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Testing.dll
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.TestHost.dll
 /Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/obj/Debug/net7.0/MvcTestingAppManifest.json
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/daniel.aranda/Documents/Personal/Repositories/DomeGym/tests/GymManagement.Api.IntegrationTests/bin/Debug/net7.0/System.Security.Permissions.dll

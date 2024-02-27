@@ -24,10 +24,19 @@ public class CurrentUserProvider : ICurrentUserProvider
     {
         _httpContextAccesor.HttpContext.ThrowIfNull();
 
-        var claim = _httpContextAccesor
+        var idClaim = _httpContextAccesor
           .HttpContext.User.Claims
           .First(claim => claim.Type == "id");
 
-        return new CurrentUser(Guid.Parse(claim.Value));
+         var permissions = _httpContextAccesor
+          .HttpContext.User.Claims
+          .Where(claim => claim.Type == "permissions")
+          .Select(claim => claim.Value)
+          .ToList();
+
+        return new CurrentUser(
+            Id: Guid.Parse(idClaim.Value),
+            Permissions: permissions
+        );
     }
 }

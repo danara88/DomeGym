@@ -1,5 +1,6 @@
 /// <summary>
-/// Current User model
+/// Current User Model
 /// </summary>
 /// <param name="Id"></param>
-public record CurrentUser(Guid Id);
+/// <param name="Permissions"></param>
+public record CurrentUser(Guid Id, IReadOnlyList<string> Permissions);

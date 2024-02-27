@@ -16,7 +16,10 @@ public static class DependencyInjection
             // Example how we can register a behavior
             // options.AddBehavior<IPipelineBehavior<CreateGymCommand, ErrorOr<Gym>>, CreateGymCommandBehavior>();
 
-            // Add generic behavior
+            // Add generic behavior for authorization behavior
+            options.AddOpenBehavior(typeof(AuthorizationBehavior<,>));
+
+            // Add generic behavior for validation behavior
             options.AddOpenBehavior(typeof(ValidationBehavior<,>));
         });
 

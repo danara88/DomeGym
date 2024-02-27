@@ -5,5 +5,5 @@ using MediatR;
 
 namespace GymManagement.Application.Gyms.Commands.CreateGym;
 
-[Authorize(Permissions = "gyms:create,gyms:foo")]
+[Authorize(Permissions = "gyms:create", Roles = "Admin")]
 public record CreateGymCommand(string Name, Guid SubscriptionId) : IRequest<ErrorOr<Gym>>;

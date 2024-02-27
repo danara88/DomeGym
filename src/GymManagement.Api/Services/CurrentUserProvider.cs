@@ -24,19 +24,31 @@ public class CurrentUserProvider : ICurrentUserProvider
     {
         _httpContextAccesor.HttpContext.ThrowIfNull();
 
-        var idClaim = _httpContextAccesor
-          .HttpContext.User.Claims
-          .First(claim => claim.Type == "id");
+        var id = GetClaimValues("id")
+            .Select(value => Guid.Parse(value))
+            .First();
 
-         var permissions = _httpContextAccesor
-          .HttpContext.User.Claims
-          .Where(claim => claim.Type == "permissions")
-          .Select(claim => claim.Value)
-          .ToList();
+        var permissions = GetClaimValues("permissions");
+
+        var roles = GetClaimValues(ClaimTypes.Role);
 
         return new CurrentUser(
-            Id: Guid.Parse(idClaim.Value),
-            Permissions: permissions
+            Id: id,
+            Permissions: permissions,
+            Roles: roles
         );
+    }
+
+    /// <summary>
+    /// Gets the the claims values from the token
+    /// </summary>
+    /// <param name="claimType"></param>
+    /// <returns></returns>
+    private IReadOnlyList<string> GetClaimValues(string claimType)
+    {
+        return _httpContextAccesor.HttpContext!.User.Claims
+            .Where(claim => claim.Type == claimType)
+            .Select(claim => claim.Value)
+            .ToList();
     }
 }
